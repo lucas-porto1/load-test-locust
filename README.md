@@ -29,7 +29,7 @@ This project is designed to perform load testing on APIs using [Locust](https://
 - **`tests/jsonPlaceholder.py`**: Main Locust script integrating API and helper classes.
 - **`utils/api.py`**: Contains the `Api` class with methods for interacting with the API endpoints (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`).
 - **`utils/helpers.py`**: Contains the `Helpers` class with methods for generating random IDs and dynamic payloads using the `Faker` library.
-- **`locust.conf`**: Configuration file for Locust, specifying settings like the number of users, spawn rate, host URL, and report paths.
+- **`locust.conf`**: Configuration file for Locust, specifying settings like the number of users, spawn rate, and host URL.
 - **`requirements.txt`**: Lists all Python dependencies required for the project.
 
 ## Prerequisites
