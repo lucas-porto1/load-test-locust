@@ -1,0 +1,10 @@
+venv/
+env/
+.env
+
+__pycache__/
+*.py[cod]
+
+.ruff_cache
+
+jsonPlaceholder.html
