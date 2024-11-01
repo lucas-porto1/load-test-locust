@@ -41,8 +41,8 @@ This project is designed to perform load testing on APIs using [Locust](https://
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourUsername/yourProject.git
-   cd yourProject
+   git clone https://github.com/lucas-porto1/load-test-locust
+   cd load-test-locust
    ```
 
 2. **Set Up a Virtual Environment (Recommended)**
@@ -110,7 +110,7 @@ Follow these steps to execute the load tests:
 1. **Ensure You're in the Project Root Directory**
 
 ```bash
-cd /path/to/yourProject
+cd /path/to/load-test-locust
 ```
 
 2. **Activate the Virtual Environment**
